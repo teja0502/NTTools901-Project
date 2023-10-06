@@ -10,9 +10,9 @@ public class Employee {
 	private String empLastName;
 	private String empDept;
 	private String addrs;
+	private String addrs1;
 	private String loc;
+
 	private Double number;
-
-
 
 }
