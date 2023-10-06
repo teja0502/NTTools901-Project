@@ -12,8 +12,9 @@ public class Employee {
 	private String addrs;
 	private String addrs1;
 	private String loc;
-	private Double number;
 	private Double number1;
-	
+	private String loc1;
+	private Double number;
+
 
 }
