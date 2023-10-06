@@ -10,6 +10,7 @@ public class Employee {
 	private String empDept;
 	private String addrs;
 	private String loc;
+	private String name;
 	private Double salary;
 
 }
