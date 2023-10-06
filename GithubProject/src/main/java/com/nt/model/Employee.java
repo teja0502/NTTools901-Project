@@ -7,6 +7,7 @@ public class Employee {
 	
 	private Integer empNo;
 	private String empName;
+	private String empLastName;
 	private String empDept;
 	private String addrs;
 	private String loc;
