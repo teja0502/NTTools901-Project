@@ -10,5 +10,6 @@ public class Employee {
 	private String empDept;
 	private String addrs;
 	private Double salary;
+	private Double deptNo;
 
 }
