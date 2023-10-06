@@ -9,7 +9,6 @@ public class Employee {
 	private String empName;
 	private String empDept;
 	private String addrs;
-	private String location;
 	private Double salary;
 
 }
