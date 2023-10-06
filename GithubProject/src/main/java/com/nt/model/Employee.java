@@ -13,6 +13,7 @@ public class Employee {
 	private Double salary;
 	private Integer number;
 	private Double deptNo;
+	
 
 
 }
