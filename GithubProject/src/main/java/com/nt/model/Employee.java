@@ -12,5 +12,7 @@ public class Employee {
 	private String loc;
 	private String name;
 	private Double salary;
+	
+	private Double number;
 
 }
