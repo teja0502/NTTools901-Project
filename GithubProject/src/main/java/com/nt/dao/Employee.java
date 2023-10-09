@@ -1,5 +1,9 @@
 package com.nt.dao;
 
-public enum Employee {
+public class Employee {
+
+	public Employee() {
+		System.out.println("Employee.Employee()");
+	}
 
 }
