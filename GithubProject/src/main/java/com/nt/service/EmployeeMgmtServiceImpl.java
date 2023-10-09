@@ -8,7 +8,12 @@ public class EmployeeMgmtServiceImpl implements IEmployeeMgmtService {
 	public String registerEmployee(Employee employee) {
 		System.out.println("EmployeeMgmtServiceImpl.registerEmployee()Modified");
 		return null;
-		
+
 	}
 
+	@Override
+	public void add() {
+		
+
+	}
 }
